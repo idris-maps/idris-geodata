@@ -47,6 +47,7 @@ Properties:
 
 * cantons_1%.json
 * communes_1%.json
+* lakes_1%.json
 
 Simplified with [mapshaper](http://mapshaper.org/)
 
