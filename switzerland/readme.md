@@ -2,8 +2,12 @@
 
 ## Source
 
-OpenStreetMap extract from Mapzen
+For Cantons and Communes: OpenStreetMap extract from Mapzen
 https://mapzen.com/data/borders/
+
+For lakes: OpenStreetMap extract with Overpass turbo http://overpass-turbo.eu/
+
+For peaks: Wikipedia https://en.wikipedia.org/wiki/List_of_mountains_of_Switzerland#Main_list
 
 ## Fixes
 
@@ -42,6 +46,13 @@ Properties:
 * name_de
 * name_fr
 * name_it
+
+### peaks.json
+
+Properties:
+* alt
+* rank
+* name
 
 ## Simplified files
 
